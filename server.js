@@ -12,11 +12,13 @@ var stocks = {
     "FB": 75.0
 };
 
+
 var stockUpdater;
 var randomStockUpdater = function(){
     for (var symbol in stocks){
         if(stocks.hasOwnProperty(symbol)){
-            
+            var randomized
+
         }
     }
 }
